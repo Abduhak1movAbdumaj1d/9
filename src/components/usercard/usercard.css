@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+
+}
+
+.bola {
+    padding: 10px;
+    background-color: #FCF2E5;
+    width: 280px;
+    height: 380px;
+}
+
+
+
+
+img {
+    width: 182px;
+    height: 182px;
+    margin: 10px 50px;
+}
+
+.bola h2,
+p {
+    text-align: center;
+    padding: 20px 0 0px;
+}
+
+.bola h2 {
+    font-weight: 50px;
+}

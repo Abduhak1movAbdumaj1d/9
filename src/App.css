@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1252px;
+    margin: 0 auto;
+}
+
+.user-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+h1 {
+    text-align: center;
+    gap: 10px;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.vvv {
+    background: #F2EFEF;
+}
+
+.lll img {
+    width: 188px;
+    height: 150px;
+    margin: 10px;
+}
+.imfo-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+   
+}
+.imfo-card p{
+    padding: 7px;
+    text-align: start;
+}
